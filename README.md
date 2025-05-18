@@ -1,6 +1,8 @@
 # ClaudeCAD
 
-![Video Demo of Claude Blender Modeling](https://img.youtube.com/vi/Li_4rGMCwnk/0.jpg)(https://www.youtube.com/watch?v=Li_4rGMCwnk/0.jpg)
+[![Video Demo of Claude Blender Modeling](https://img.youtube.com/vi/Li_4rGMCwnk/0.jpg)](https://www.youtube.com/watch?v=Li_4rGMCwnk/0.jpg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 ## Inspiration
 

@@ -1,6 +1,5 @@
 # ClaudeCAD
 
-https://www.youtube.com/watch?v=Li_4rGMCwnk
 ![Video Demo of Claude Blender Modeling](https://img.youtube.com/vi/Li_4rGMCwnk/0.jpg)](https://www.youtube.com/watch?v=Li_4rGMCwnk)
 
 

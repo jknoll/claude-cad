@@ -1,4 +1,9 @@
 # ClaudeCAD
+
+https://www.youtube.com/watch?v=Li_4rGMCwnk
+[![Video Demo of Claude Blender Modeling](https://img.youtube.com/vi/Li_4rGMCwnk/0.jpg)](https://www.youtube.com/watch?v=Li_4rGMCwnk)
+
+
 ## Inspiration
 
 3D models are one of the best vehicles for learning about mechanical concepts or engineering history, but they are not always available and they are non-interactive. What if you could inference a 3D model from any technical drawing, watch it in motion, ask questions about its operation, make modifications to parameters, output the result for 3D slicing and 3D printing, etc? Let's make 2D drawings into explorable explanations and real objects.
